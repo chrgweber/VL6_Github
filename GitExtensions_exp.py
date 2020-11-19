@@ -7,3 +7,5 @@ d=6
 #Funktion 2
 def wichtige_Funktion (e):
     return(e*2)
+def noch_wichtigere_Funktion(r):
+    return(r+1)
